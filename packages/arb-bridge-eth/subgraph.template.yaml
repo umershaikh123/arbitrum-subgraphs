@@ -151,3 +151,11 @@ dataSources:
           handler: handleInitialize
       file: ./src/tokenBridge.ts
 {{{ rollupPreprocessor }}}
+
+
+Build completed: QmTrzngNQUsfVgWj3gPRTRqUoKLx6nHfZAF6P2J9GLHYCR
+
+Deployed to https://thegraph.com/studio/subgraph/l1_holesky_orbit
+
+Subgraph endpoints:
+Queries (HTTP):     https://api.studio.thegraph.com/query/55613/l1_holesky_orbit/0.0.1
